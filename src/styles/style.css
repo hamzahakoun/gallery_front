@@ -1,0 +1,33 @@
+.loading {
+  position:absolute;
+  top :35% ;
+  left : 50% ;
+  transform: translateX(-50%);
+}
+
+.thumb {
+  cursor: pointer;
+}
+
+
+.login-form [class*=MuiFormControl] {
+  margin: 20px ;
+  width: 80% ;
+
+}
+
+.login-form {
+  text-align: center;
+}
+.login-container {
+  height: 100vh ;
+  background-color: #f4efef ;
+}
+
+.login-submit {
+  width: 80% ;
+}
+#logo {
+  width: 100px;
+  height: 100px
+}
